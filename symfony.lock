@@ -8,6 +8,9 @@
     "guzzlehttp/psr7": {
         "version": "1.4.2"
     },
+    "kevinrob/guzzle-cache-middleware": {
+        "version": "v3.2.1"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },

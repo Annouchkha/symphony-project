@@ -5,6 +5,8 @@
         "php": "^7.0.8",
         "ext-iconv": "*",
         "guzzlehttp/guzzle": "~6.0",
+        "kevinrob/guzzle-cache-middleware": "^3.2",
+        "symfony/cache": "^3.4",
         "symfony/console": "^3.4",
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^3.4",
